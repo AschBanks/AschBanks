@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning
     - *HTML/HTML5*
     - *JavaScript*
-- 📫 You can contact me on Discord: **Asch#6701**
+- 📫 You can contact me on Discord: **Ascherys#6701**
 
 <!---
 AschBanks/AschBanks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
